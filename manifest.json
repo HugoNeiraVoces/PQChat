@@ -1,0 +1,22 @@
+{
+  "short_name": "PQChat",
+  "name": "PQChat - Post-Quantum Messenger",
+  "icons": [
+    {
+      "src": "/pictures/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/pictures/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#0f172a",
+  "scope": "/",
+  "theme_color": "#0f172a",
+  "display": "standalone",
+  "orientation": "portrait"
+}
